@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'Bugly_Swift/Classes/**/*'
   
+  s.static_framework = true
+  
   # s.resource_bundles = {
   #   'Bugly_Swift' => ['Bugly_Swift/Assets/*.png']
   # }

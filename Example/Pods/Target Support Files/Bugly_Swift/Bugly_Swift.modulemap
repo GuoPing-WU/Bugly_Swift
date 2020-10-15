@@ -1,0 +1,6 @@
+framework module Bugly_Swift {
+  umbrella header "Bugly_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

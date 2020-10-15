@@ -1,0 +1,16 @@
+PODS:
+  - Bugly_Swift (0.1.0)
+
+DEPENDENCIES:
+  - Bugly_Swift (from `../`)
+
+EXTERNAL SOURCES:
+  Bugly_Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bugly_Swift: be60477d912470d8ab94c9a65895963ca9fe4294
+
+PODFILE CHECKSUM: ff2bfc96214384ea0eeb6c6eadd63eb559b98778
+
+COCOAPODS: 1.5.3
