@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Bugly_Swift_Tests' do
+  pod 'Bugly_Swift', :path => '../'
+  
+  
+end
